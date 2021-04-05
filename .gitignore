@@ -12,3 +12,8 @@ preprocessed_data/listenings_with_years_and_tags.csv
 preprocessed_data/listenings_with_years_and_users.csv
 tracks_per_year.txt
 unique_tracks.txt
+.ipynb_checkpoints/preferential_attachment_analysis-checkpoint.ipynb
+.ipynb_checkpoints/general_network_metrics-checkpoint.ipynb
+.ipynb_checkpoints/forgetting_analysis-checkpoint.ipynb
+.ipynb_checkpoints/data_analysis_and_preprocessing-checkpoint.ipynb
+newman2001.pdf
