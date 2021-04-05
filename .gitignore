@@ -6,3 +6,9 @@ lastfm_tags.db
 .ipynb_checkpoints/data_analysis-checkpoint.ipynb
 .ipynb_checkpoints/data_analysis-checkpoint.ipynb
 .ipynb_checkpoints/data_analysis-checkpoint.ipynb
+apikey.txt
+preprocessed_data/listenings.csv
+preprocessed_data/listenings_with_years_and_tags.csv
+preprocessed_data/listenings_with_years_and_users.csv
+tracks_per_year.txt
+unique_tracks.txt
