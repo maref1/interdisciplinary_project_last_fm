@@ -17,3 +17,4 @@ unique_tracks.txt
 .ipynb_checkpoints/forgetting_analysis-checkpoint.ipynb
 .ipynb_checkpoints/data_analysis_and_preprocessing-checkpoint.ipynb
 newman2001.pdf
+*.db
