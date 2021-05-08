@@ -10,6 +10,6 @@
     * forgetting_analysis.ipynb (analysis of the forgetting)
     * create_sql_lite_db.ipynb (creates a sqlite .db file for the streamanalysis code which is not part of the repo)
 
-**Other code files:"**
+**Other code files:**
 * data_collection_1.ipynb - code which queries Last.fm api and returns album ids for songs, you can run multiple copies of the notebook in parallel, it is needed to set SPLIT_NR and TOTAL_SPLIT_NR in each copy accordingly (you need to have your apikey in apikey.txt file - at least TOTAL_SPLIT_NR apikeys)
 * album_date_api_collection.py - uses "unique_albums.csv" and queries the Musicbrainz API to get the release dates, can be run in parallel, takes 2 arguments similarly as data_collection_1.ipynb which identify the split and the total number of splits. It is needed to run the code on multiple machines as many queries from the same ip address will cause the API to not respond.
